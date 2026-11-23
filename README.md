@@ -14,6 +14,8 @@ Some of my older open-source PHP projects ([huge](https://github.com/panique/hug
 ### [🌑 Blackout](https://blackoutapp.io)
 **MacBook screen off. Focus on your external monitor.**
 
+<a href="https://blackoutapp.io"><img src="assets/blackout.png" alt="Blackout app window with per-display on/off switches" width="100%"></a>
+
 Turns off your MacBook's built-in display while you work on an external monitor, with the lid open, so you can keep using the keyboard, trackpad and Touch ID.
 
 - Per-display on/off switches in one window
@@ -29,6 +31,8 @@ Turns off your MacBook's built-in display while you work on an external monitor,
 
 ### [📝 Notes Plus](https://notesplus.io)
 **The Apple Notes alternative. Every note is a local Markdown file.**
+
+<a href="https://notesplus.io/assets/rendering/visual-editor-demo.mp4"><img src="assets/notesplus-demo.gif" alt="Notes Plus visual editor demo" width="100%"></a>
 
 The Apple Notes experience on top of plain Markdown files on your disk. No lock-in, no proprietary database.
 
