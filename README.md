@@ -7,14 +7,10 @@ Some of my older open-source PHP projects ([huge](https://github.com/panique/hug
 
 ## 🚀 What I'm building right now
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [🌑 Blackout](https://blackoutapp.io)
+### [🌑 Blackout](https://blackoutapp.io?utm_source=github)
 **MacBook screen off. Focus on your external monitor.**
 
-<a href="https://blackoutapp.io"><img src="assets/blackout.png" alt="Blackout app window with per-display on/off switches" width="100%"></a>
+<a href="https://blackoutapp.io?utm_source=github"><img src="assets/blackout.png" alt="Blackout app window with per-display on/off switches" width="480"></a>
 
 Turns off your MacBook's built-in display while you work on an external monitor, with the lid open, so you can keep using the keyboard, trackpad and Touch ID.
 
@@ -24,15 +20,14 @@ Turns off your MacBook's built-in display while you work on an external monitor,
 - 39 languages
 - macOS Sequoia+, Apple Silicon & Intel
 
-👉 **[blackoutapp.io](https://blackoutapp.io)**: free 7-day trial, one-time purchase, no subscription
+👉 **[blackoutapp.io](https://blackoutapp.io?utm_source=github)**: free 7-day trial, one-time purchase, no subscription
 
-</td>
-<td width="50%" valign="top">
+<br>
 
-### [📝 Notes Plus](https://notesplus.io)
+### [📝 Notes Plus](https://notesplus.io?utm_source=github)
 **The Apple Notes alternative. Every note is a local Markdown file.**
 
-<a href="https://notesplus.io/assets/rendering/visual-editor-demo.mp4"><img src="assets/notesplus-demo.gif" alt="Notes Plus visual editor demo" width="100%"></a>
+<a href="https://notesplus.io?utm_source=github"><img src="assets/notesplus-demo.gif" alt="Notes Plus visual editor demo" width="720"></a>
 
 The Apple Notes experience on top of plain Markdown files on your disk. No lock-in, no proprietary database.
 
@@ -42,11 +37,7 @@ The Apple Notes experience on top of plain Markdown files on your disk. No lock-
 - Tags, priorities, favorites, iCloud sync
 - macOS & Windows (iOS and Linux on the roadmap)
 
-👉 **[notesplus.io](https://notesplus.io)**: free during alpha/beta
-
-</td>
-</tr>
-</table>
+👉 **[notesplus.io](https://notesplus.io?utm_source=github)**: free during alpha/beta
 
 ---
 
@@ -61,4 +52,4 @@ The Apple Notes experience on top of plain Markdown files on your disk. No lock-
 
 ---
 
-🌐 [dev-metal.com](https://dev-metal.com) · 🌑 [blackoutapp.io](https://blackoutapp.io) · 📝 [notesplus.io](https://notesplus.io)
+🌐 [dev-metal.com](https://dev-metal.com) · 🌑 [blackoutapp.io](https://blackoutapp.io?utm_source=github) · 📝 [notesplus.io](https://notesplus.io?utm_source=github)
